@@ -28,3 +28,15 @@ function sayHi(user) {
 }
 sayHi('MyFullName');
 ```
+
+## Work Experience
+
+Ut fermentum, ligula eget lobortis ornare, lectus nisi semper purus, at lacinia eros libero eget leo.
+
+## Education
+
+studied at Hogwarts
+
+## English Language
+
+Nulla sit amet lorem tincidunt, semper neque vitae, euismod dolor.
